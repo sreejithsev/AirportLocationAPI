@@ -1,7 +1,7 @@
 # Airport Location GraphQL-Spring-boot Application
 
 This Standalone Spring boot project demonstrates the crud operations on Airport Location services using GraphQL as API.
-The concept and tips on GraphQL API can be found on the official page: https://graphql.org/learn/
+The concept and tips on GraphQL API can be found on the official page: https://graphql.org/learn/ .
 
 [![Build Status](https://travis-ci.com/llSourceCodell/AirportLocationAPI.svg?branch=master)](https://travis-ci.com/llSourceCodell/AirportLocationAPI)
 
